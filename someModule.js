@@ -2,7 +2,7 @@ export default () => console.log("Hello");
 
 export const someFnct = () => console.log("Goodye");
 
-export const anotherFnct= () => console.log("Goodye");
+export const anotherFnct= () => console.log("Goodyeee");
 
 
 //module.exports = () => console.log("Hello"); // default fnct 
