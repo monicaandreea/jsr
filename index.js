@@ -21,3 +21,4 @@ fetch('https://catfact.ninja/fact')
         console.log(data);
     });
 
+// modificare
